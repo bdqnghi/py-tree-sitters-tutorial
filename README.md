@@ -16,5 +16,5 @@ pip install dist/tree_sitter_parsers-*-py3-none-any.whl
 rm -rf ~/.tree-sitter
 python3 -c "import tree_sitter_parsers"
 ```
-5) Check if the tree-sitters pre-installed libraries have been downloaded to your path in `~/.tree-sitter`
+5) Check if the tree-sitters pre-installed libraries have been downloaded to your path in `~/.tree-sitter/bin`
 6) Now you are ready to use tree-sitter, execute `python3 test_parsing.py` to see if it works, then you can explore the code by yourself.
