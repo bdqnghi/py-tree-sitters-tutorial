@@ -17,7 +17,7 @@ class ASTUtil():
 
         root_json = {
             "node_type": root_type,
-            "node_token": [], # usually root does not contain token
+            "node_token": "", # usually root does not contain token
             "children": []
         }
 
