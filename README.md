@@ -1,4 +1,4 @@
-# A simple tutorial to use tree-sitter to parse code into ASTs.
+# A simple tutorial to use py-tree-sitter to parse code into ASTs.
 
 - To understand what is tree-sitter, see https://github.com/tree-sitter/tree-sitter.
 - Tree-sitter is written in C. In order to use it in Python, it must have a Python binding interface to interact with the C code, see https://github.com/tree-sitter/py-tree-sitter.
