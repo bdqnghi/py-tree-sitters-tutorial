@@ -30,7 +30,7 @@ def main():
 	#-----------------------------
 
 	"""
-	simplfy_ast is a function to traverse the ast using Breadth First Traversal to conver the ast into 
+	simplfy_ast is a function to traverse the ast using Breadth First Traversal to convert the ast into 
 	a simpler format, which is as a Python dictionary.
 	"""
 	simplified_ast = ast_util.simplify_ast(tree, sample_code)
