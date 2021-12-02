@@ -19,7 +19,7 @@ def main():
 	print(tree)
 
 	"""
-	Some simple traversal on the tree-sitter's ast, refer to https://github.com/tree-sitter/py-tree-sitter
+	Simple traversals on the tree-sitter's ast, refer to https://github.com/tree-sitter/py-tree-sitter
 	for more information
 	"""
 	root_node = tree.root_node
